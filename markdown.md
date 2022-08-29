@@ -73,3 +73,9 @@ ___
 
 # GitHub Flavored Markdown
 [바로가기](http://guides.github.com/features/mastering-markdown)
+
+예) 작업 목록
+-[x] 할일 1
+-[] 할일 2
+-[] 할일 3
+
